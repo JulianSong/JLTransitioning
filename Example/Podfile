@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JLTransitioning_Example' do
+  pod 'JLTransitioning', :path => '../'
+
+  target 'JLTransitioning_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
