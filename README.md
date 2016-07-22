@@ -22,7 +22,7 @@ pod "JLTransitioning"
 
 ## Author
 
-junliang.song, junliang.song@dianping.com
+junliang.song, geeksong@gmail.com
 
 ## License
 

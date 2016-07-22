@@ -1,0 +1,16 @@
+PODS:
+  - JLTransitioning (0.1.0)
+
+DEPENDENCIES:
+  - JLTransitioning (from `../`)
+
+EXTERNAL SOURCES:
+  JLTransitioning:
+    :path: ../
+
+SPEC CHECKSUMS:
+  JLTransitioning: 76eac805c48d86cffa2a86971d79621c352d49c8
+
+PODFILE CHECKSUM: 85044730301f4a442ad17b4edef51e0474265de4
+
+COCOAPODS: 1.0.0.beta.3

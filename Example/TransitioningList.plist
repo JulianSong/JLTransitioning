@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>JLPopTransitioning</string>
+		<key>Description</key>
+		<string>Popovrer Transitioning</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>JLFlipTransitioning</string>
+		<key>Description</key>
+		<string>Flip Transitioning</string>
+	</dict>
+</array>
+</plist>

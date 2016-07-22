@@ -9,5 +9,5 @@
 @import UIKit;
 
 @interface JLViewController : UIViewController
-
+@property(nonatomic,strong)id<UIViewControllerAnimatedTransitioning,UIViewControllerTransitioningDelegate> transitioning;
 @end
