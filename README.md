@@ -5,6 +5,14 @@
 [![License](https://img.shields.io/cocoapods/l/JLTransitioning.svg?style=flat)](http://cocoapods.org/pods/JLTransitioning)
 [![Platform](https://img.shields.io/cocoapods/p/JLTransitioning.svg?style=flat)](http://cocoapods.org/pods/JLTransitioning)
 
+## Screen Shots
+
+#### Pop
+![image](https://github.com/JulianSong/JLTransitioning/blob/master/Example/screenshots/screenshot1.gif =375x667)
+#### Flip
+![image](https://github.com/JulianSong/JLTransitioning/blob/master/Example/screenshots/screenshot2.gif =375x667)
+#### Circular reveal
+![image](https://github.com/JulianSong/JLTransitioning/blob/master/Example/screenshots/screenshot3.gif =375x667)
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.

@@ -1,1708 +1,711 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>archiveVersion</key>
-	<string>1</string>
-	<key>classes</key>
-	<dict/>
-	<key>objectVersion</key>
-	<string>46</string>
-	<key>objects</key>
-	<dict>
-		<key>0103BCE659F10235BD992131A2146395</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>Pods-JLTransitioning_Example-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>054825842E2A9F3633A81A7D07671A37</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>86EE7CC51DC16114732033AE90D21139</string>
-				<string>E0D64FDD12DCC23E7C1D837E786DF3AC</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>0977B7D90982449D800F2AD3E82EADF2</key>
-		<dict>
-			<key>fileRef</key>
-			<string>AF066F8D85A4D7A3B3A04D25E4D2AC88</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>0A62C8FACB0CD5620812F8D5D296BEA0</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>5CCC8E137BCF5BA8169996BE21567318</string>
-				<string>3F8950A638929D566730DA874B0EA446</string>
-				<string>3D573C70A3485F3AD717D52451E8F56C</string>
-				<string>6818A36D57E0237AECA7D783314987A2</string>
-				<string>1FC416A4DBE8289C0CD2584675105C47</string>
-				<string>4BDA320A39E638E0C063E3C6E90CBD85</string>
-				<string>A13957386C240B930ED7C685D56DDA22</string>
-				<string>5D17A049B1C8B0D78CEB3143AEBEB629</string>
-				<string>C23093F37EC050EF17586CE9687A233F</string>
-				<string>4DA6717AA018E6F290856DAF875E757B</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pods-JLTransitioning_Tests</string>
-			<key>path</key>
-			<string>Target Support Files/Pods-JLTransitioning_Tests</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>0AC12E557612559A81C2029A58D6B19F</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>5566BAD430EE4A7EFDB51BFF9B83942C</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>0E8D78EFBDCF69387ACBC476AE6B9AC9</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>1D877DC3D01E2DEBACBC806241480317</string>
-				<string>8B7CD2BF1E13B26816A392B1277FBDDE</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>JLTransitioning</string>
-			<key>path</key>
-			<string>../..</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>0F5B4B12178B8F8FF45C46462F552AA2</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>518E9577EC4CC71A3E1617C8E4761F9F</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>0FABAD41D8E51E5ED4163FA8F0F64B0E</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>0E8D78EFBDCF69387ACBC476AE6B9AC9</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Development Pods</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>105E401CEE997310D28426F09616D27A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>1758680429012A5D94DF6B24FE0BF03F</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>10630636D9C843C32B2DE4AFEB7ADC8A</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>JLFlipTransitioning.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1758680429012A5D94DF6B24FE0BF03F</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>JLTransitioning.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1BA5C7D7C0966E6926401F2EE603AC62</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Pods-JLTransitioning_Example-acknowledgements.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1BE57E16E9C8D9CB69A569E816835716</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D635D41133915B228CE899EF89DD95CE</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>1D877DC3D01E2DEBACBC806241480317</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>1DFB98F93DF6D2592A508CDCF9AC958A</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>JLTransitioning</string>
-			<key>path</key>
-			<string>JLTransitioning</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1DFB98F93DF6D2592A508CDCF9AC958A</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>10630636D9C843C32B2DE4AFEB7ADC8A</string>
-				<string>D2750D342E2F91E54AAB49E383D8D646</string>
-				<string>359C49DFB6C7483A3A64635C994A81DC</string>
-				<string>F54E9159D85B800CD76A5BD594C6E6A6</string>
-				<string>1758680429012A5D94DF6B24FE0BF03F</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Classes</string>
-			<key>path</key>
-			<string>Classes</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1E7F577D49D4DEE8A82C11CAD784DEB2</key>
-		<dict>
-			<key>fileRef</key>
-			<string>F54E9159D85B800CD76A5BD594C6E6A6</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>1FC416A4DBE8289C0CD2584675105C47</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>Pods-JLTransitioning_Tests-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>25F862FA9D3A8F51DC405E31360AFECA</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D635D41133915B228CE899EF89DD95CE</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>2ADB9462E9BD3B69DAEDC8CE97CF3ADF</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>9CD8369892079751B8EE109414384369</string>
-			</array>
-			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>2D8E8EC45A3A1A1D94AE762CB5028504</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>70F0378D63DE3D2DCC739550669BD46A</string>
-				<string>372FF5048FF42C3A7A18B70A30D785C1</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>2FADCDBF72DA7D014ED8ECD227F0CAF1</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>4DA6717AA018E6F290856DAF875E757B</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEBUG_INFORMATION_FORMAT</key>
-				<string>dwarf-with-dsym</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_NO_COMMON_BLOCKS</key>
-				<string>YES</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/Pods-JLTransitioning_Tests/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MACH_O_TYPE</key>
-				<string>staticlib</string>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/Pods-JLTransitioning_Tests/Pods-JLTransitioning_Tests.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>NO</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PODS_ROOT</key>
-				<string>$(SRCROOT)</string>
-				<key>PRODUCT_BUNDLE_IDENTIFIER</key>
-				<string>org.cocoapods.${PRODUCT_NAME:rfc1034identifier}</string>
-				<key>PRODUCT_NAME</key>
-				<string>Pods_JLTransitioning_Tests</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>359C49DFB6C7483A3A64635C994A81DC</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>JLPopTransitioning.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>372166E27599B1A1792D9829C56D4AC1</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-JLTransitioning_Example.debug.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>372FF5048FF42C3A7A18B70A30D785C1</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
-				<string>gnu++0x</string>
-				<key>CLANG_CXX_LIBRARY</key>
-				<string>libc++</string>
-				<key>CLANG_ENABLE_MODULES</key>
-				<string>YES</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>YES</string>
-				<key>CLANG_WARN_BOOL_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_CONSTANT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_DIRECT_OBJC_ISA_USAGE</key>
-				<string>YES</string>
-				<key>CLANG_WARN_EMPTY_BODY</key>
-				<string>YES</string>
-				<key>CLANG_WARN_ENUM_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_OBJC_ROOT_CLASS</key>
-				<string>YES</string>
-				<key>CLANG_WARN_UNREACHABLE_CODE</key>
-				<string>YES</string>
-				<key>CLANG_WARN__DUPLICATE_METHOD_MATCH</key>
-				<string>YES</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>YES</string>
-				<key>ENABLE_NS_ASSERTIONS</key>
-				<string>NO</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>POD_CONFIGURATION_RELEASE=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_WARN_64_TO_32_BIT_CONVERSION</key>
-				<string>YES</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNDECLARED_SELECTOR</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_FUNCTION</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>STRIP_INSTALLED_PRODUCT</key>
-				<string>NO</string>
-				<key>SYMROOT</key>
-				<string>${SRCROOT}/../build</string>
-				<key>VALIDATE_PRODUCT</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>37A9C12F2033A1A77BCCC239ACF6A662</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>JLTransitioning.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>399A9425CA2DCAD7A4B4A7CF8CE1EE99</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>70C13260F6DDD520AC80D27FF6C2588B</string>
-			</array>
-			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>3A95E9F98D6F47FB11C3EE1EC7AE5A30</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.script.sh</string>
-			<key>path</key>
-			<string>Pods-JLTransitioning_Example-frameworks.sh</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>3D573C70A3485F3AD717D52451E8F56C</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text</string>
-			<key>path</key>
-			<string>Pods-JLTransitioning_Tests-acknowledgements.markdown</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>3EB198B4A4813DF31BF757817EEFE432</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>E487D324A05CDDB8F91573E35A8FA24A</string>
-				<string>8060A91CAF36105EBFD945180C676E6F</string>
-				<string>854A4B51D97F809A4C47957976732117</string>
-				<string>105E401CEE997310D28426F09616D27A</string>
-			</array>
-			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>3F8950A638929D566730DA874B0EA446</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>Pods-JLTransitioning_Tests.modulemap</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>433CD3331B6C3787F473C941B61FC68F</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>E294F3BD993E240DCFCB4DC1329C9F36</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Frameworks</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4BDA320A39E638E0C063E3C6E90CBD85</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.script.sh</string>
-			<key>path</key>
-			<string>Pods-JLTransitioning_Tests-frameworks.sh</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4DA6717AA018E6F290856DAF875E757B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-JLTransitioning_Tests.release.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4E2D4A25A718AEB2EF6557B1871AC0CA</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>ECC03F97A5E849BF79241A1366B93D2D</string>
-				<string>2FADCDBF72DA7D014ED8ECD227F0CAF1</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>4EE10D883AEF1845AD5F73F45EF8F092</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>JLTransitioning.modulemap</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>518E9577EC4CC71A3E1617C8E4761F9F</key>
-		<dict>
-			<key>fileRef</key>
-			<string>0103BCE659F10235BD992131A2146395</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>5566BAD430EE4A7EFDB51BFF9B83942C</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D635D41133915B228CE899EF89DD95CE</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>5929A2F6AF1254AA1874A429B167C2D7</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>BD62FF8C6CC70C21EEC1F38F5EE7FA45</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>5CCC8E137BCF5BA8169996BE21567318</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>5D17A049B1C8B0D78CEB3143AEBEB629</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>Pods-JLTransitioning_Tests-umbrella.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>62415991679D4D777A43ED8B834D238D</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>D5824266046462A2C6EDD5AD4A6BF79B</string>
-				<string>1E7F577D49D4DEE8A82C11CAD784DEB2</string>
-				<string>656049BF8888E4D29B0617387912297D</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>656049BF8888E4D29B0617387912297D</key>
-		<dict>
-			<key>fileRef</key>
-			<string>E1850823F9E9A80380B16BF9CBF0DAB4</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>6818A36D57E0237AECA7D783314987A2</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Pods-JLTransitioning_Tests-acknowledgements.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6F03C63763C1C3DD9F6D35906269613F</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.framework</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>Pods_JLTransitioning_Example.framework</string>
-			<key>path</key>
-			<string>Pods-JLTransitioning_Example.framework</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>6FA18091A327A2CF460E49DFF4BE80E0</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>90F3702328CF9910CDF388E699829C9E</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEBUG_INFORMATION_FORMAT</key>
-				<string>dwarf-with-dsym</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_NO_COMMON_BLOCKS</key>
-				<string>YES</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/Pods-JLTransitioning_Example/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MACH_O_TYPE</key>
-				<string>staticlib</string>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/Pods-JLTransitioning_Example/Pods-JLTransitioning_Example.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>NO</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PODS_ROOT</key>
-				<string>$(SRCROOT)</string>
-				<key>PRODUCT_BUNDLE_IDENTIFIER</key>
-				<string>org.cocoapods.${PRODUCT_NAME:rfc1034identifier}</string>
-				<key>PRODUCT_NAME</key>
-				<string>Pods_JLTransitioning_Example</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>70C13260F6DDD520AC80D27FF6C2588B</key>
-		<dict>
-			<key>fileRef</key>
-			<string>DC4AC3E2040EC6A8B11DD21C84DD8ECE</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>70F0378D63DE3D2DCC739550669BD46A</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
-				<string>gnu++0x</string>
-				<key>CLANG_CXX_LIBRARY</key>
-				<string>libc++</string>
-				<key>CLANG_ENABLE_MODULES</key>
-				<string>YES</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>YES</string>
-				<key>CLANG_WARN_BOOL_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_CONSTANT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_DIRECT_OBJC_ISA_USAGE</key>
-				<string>YES</string>
-				<key>CLANG_WARN_EMPTY_BODY</key>
-				<string>YES</string>
-				<key>CLANG_WARN_ENUM_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_OBJC_ROOT_CLASS</key>
-				<string>YES</string>
-				<key>CLANG_WARN_UNREACHABLE_CODE</key>
-				<string>YES</string>
-				<key>CLANG_WARN__DUPLICATE_METHOD_MATCH</key>
-				<string>YES</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>ENABLE_TESTABILITY</key>
-				<string>YES</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>POD_CONFIGURATION_DEBUG=1</string>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
-				<string>NO</string>
-				<key>GCC_WARN_64_TO_32_BIT_CONVERSION</key>
-				<string>YES</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNDECLARED_SELECTOR</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_FUNCTION</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>ONLY_ACTIVE_ARCH</key>
-				<string>YES</string>
-				<key>STRIP_INSTALLED_PRODUCT</key>
-				<string>NO</string>
-				<key>SYMROOT</key>
-				<string>${SRCROOT}/../build</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>7DB346D0F39D3F0E887471402A8071AB</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>BA6428E9F66FD5A23C0A2E06ED26CD2F</string>
-				<string>0FABAD41D8E51E5ED4163FA8F0F64B0E</string>
-				<string>433CD3331B6C3787F473C941B61FC68F</string>
-				<string>E154B6AAD2716FCCD571CD11161BA93E</string>
-				<string>BB122D92C564507AAFF076D08AA74FBB</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>8060A91CAF36105EBFD945180C676E6F</key>
-		<dict>
-			<key>fileRef</key>
-			<string>359C49DFB6C7483A3A64635C994A81DC</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>854A4B51D97F809A4C47957976732117</key>
-		<dict>
-			<key>fileRef</key>
-			<string>8AD776D4A3F0C4475476757745EB719E</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>85FACEFDCE6046FAC0BC7CD3F7DA0E35</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>25F862FA9D3A8F51DC405E31360AFECA</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>86EE7CC51DC16114732033AE90D21139</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>37A9C12F2033A1A77BCCC239ACF6A662</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEBUG_INFORMATION_FORMAT</key>
-				<string>dwarf</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_NO_COMMON_BLOCKS</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/JLTransitioning/JLTransitioning-prefix.pch</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/JLTransitioning/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.0</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/JLTransitioning/JLTransitioning.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>YES</string>
-				<key>PRODUCT_NAME</key>
-				<string>JLTransitioning</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>8AD776D4A3F0C4475476757745EB719E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>JLTransitioning-umbrella.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>8B7CD2BF1E13B26816A392B1277FBDDE</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>F4432870494B9D28038E76BFA0F8DC69</string>
-				<string>4EE10D883AEF1845AD5F73F45EF8F092</string>
-				<string>37A9C12F2033A1A77BCCC239ACF6A662</string>
-				<string>E1850823F9E9A80380B16BF9CBF0DAB4</string>
-				<string>FF57276D86994F84894B62CC947DA131</string>
-				<string>8AD776D4A3F0C4475476757745EB719E</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Support Files</string>
-			<key>path</key>
-			<string>Example/Pods/Target Support Files/JLTransitioning</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>8D279359FEC7C9A748C51C7EB527CC33</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text</string>
-			<key>path</key>
-			<string>Pods-JLTransitioning_Example-acknowledgements.markdown</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>90F3702328CF9910CDF388E699829C9E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-JLTransitioning_Example.release.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>95DD354645FEFD9B44C8B43C51D079F7</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>D1B5F5D2E3AA7E57280C09B6BC90D49D</string>
-				<string>F55443F66A0FD3A7A63A0B80102A05E3</string>
-				<string>8D279359FEC7C9A748C51C7EB527CC33</string>
-				<string>1BA5C7D7C0966E6926401F2EE603AC62</string>
-				<string>0103BCE659F10235BD992131A2146395</string>
-				<string>3A95E9F98D6F47FB11C3EE1EC7AE5A30</string>
-				<string>A7A384BA966ADC36B617E176EEAFFFBC</string>
-				<string>DC4AC3E2040EC6A8B11DD21C84DD8ECE</string>
-				<string>372166E27599B1A1792D9829C56D4AC1</string>
-				<string>90F3702328CF9910CDF388E699829C9E</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pods-JLTransitioning_Example</string>
-			<key>path</key>
-			<string>Target Support Files/Pods-JLTransitioning_Example</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>9CD8369892079751B8EE109414384369</key>
-		<dict>
-			<key>fileRef</key>
-			<string>5D17A049B1C8B0D78CEB3143AEBEB629</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>9E9FC7D43E956C94A69DDC11EEE15DC3</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>4E2D4A25A718AEB2EF6557B1871AC0CA</string>
-			<key>buildPhases</key>
-			<array>
-				<string>5929A2F6AF1254AA1874A429B167C2D7</string>
-				<string>0AC12E557612559A81C2029A58D6B19F</string>
-				<string>2ADB9462E9BD3B69DAEDC8CE97CF3ADF</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Pods-JLTransitioning_Tests</string>
-			<key>productName</key>
-			<string>Pods-JLTransitioning_Tests</string>
-			<key>productReference</key>
-			<string>E58D712465EB1F6842E2B684100A4BAD</string>
-			<key>productType</key>
-			<string>com.apple.product-type.framework</string>
-		</dict>
-		<key>A13957386C240B930ED7C685D56DDA22</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.script.sh</string>
-			<key>path</key>
-			<string>Pods-JLTransitioning_Tests-resources.sh</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A164379A29C53DB00274B2919C5D3C8E</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>name</key>
-			<string>JLTransitioning</string>
-			<key>target</key>
-			<string>FC72A5548A23965AED5BD03819872563</string>
-			<key>targetProxy</key>
-			<string>EA04F0308838462EF9CF12AD23A623A0</string>
-		</dict>
-		<key>A3CE1D19FE1EC7188D62C0357AC84B70</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>1BE57E16E9C8D9CB69A569E816835716</string>
-				<string>0977B7D90982449D800F2AD3E82EADF2</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>A7A384BA966ADC36B617E176EEAFFFBC</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.script.sh</string>
-			<key>path</key>
-			<string>Pods-JLTransitioning_Example-resources.sh</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>AE41F511F53BD94A53EB2FE9CA5C937C</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>CA77FB466A5C764FCE5A5E21B9ADC90C</string>
-				<string>6FA18091A327A2CF460E49DFF4BE80E0</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>AF066F8D85A4D7A3B3A04D25E4D2AC88</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>UIKit.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk/System/Library/Frameworks/UIKit.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>BA6428E9F66FD5A23C0A2E06ED26CD2F</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text</string>
-			<key>name</key>
-			<string>Podfile</string>
-			<key>path</key>
-			<string>../Podfile</string>
-			<key>sourceTree</key>
-			<string>SOURCE_ROOT</string>
-			<key>xcLanguageSpecificationIdentifier</key>
-			<string>xcode.lang.ruby</string>
-		</dict>
-		<key>BB122D92C564507AAFF076D08AA74FBB</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>95DD354645FEFD9B44C8B43C51D079F7</string>
-				<string>0A62C8FACB0CD5620812F8D5D296BEA0</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Targets Support Files</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>BD62FF8C6CC70C21EEC1F38F5EE7FA45</key>
-		<dict>
-			<key>fileRef</key>
-			<string>1FC416A4DBE8289C0CD2584675105C47</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>C23093F37EC050EF17586CE9687A233F</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-JLTransitioning_Tests.debug.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>C33A2C5DAD52EC5E4687DC0A2FFD88D3</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>AE41F511F53BD94A53EB2FE9CA5C937C</string>
-			<key>buildPhases</key>
-			<array>
-				<string>0F5B4B12178B8F8FF45C46462F552AA2</string>
-				<string>85FACEFDCE6046FAC0BC7CD3F7DA0E35</string>
-				<string>399A9425CA2DCAD7A4B4A7CF8CE1EE99</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>A164379A29C53DB00274B2919C5D3C8E</string>
-			</array>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Pods-JLTransitioning_Example</string>
-			<key>productName</key>
-			<string>Pods-JLTransitioning_Example</string>
-			<key>productReference</key>
-			<string>6F03C63763C1C3DD9F6D35906269613F</string>
-			<key>productType</key>
-			<string>com.apple.product-type.framework</string>
-		</dict>
-		<key>C3D56D8FFB99FDD95F755F8A581F08BB</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.framework</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>JLTransitioning.framework</string>
-			<key>path</key>
-			<string>JLTransitioning.framework</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>CA77FB466A5C764FCE5A5E21B9ADC90C</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>372166E27599B1A1792D9829C56D4AC1</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEBUG_INFORMATION_FORMAT</key>
-				<string>dwarf</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_NO_COMMON_BLOCKS</key>
-				<string>YES</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/Pods-JLTransitioning_Example/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MACH_O_TYPE</key>
-				<string>staticlib</string>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/Pods-JLTransitioning_Example/Pods-JLTransitioning_Example.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>YES</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PODS_ROOT</key>
-				<string>$(SRCROOT)</string>
-				<key>PRODUCT_BUNDLE_IDENTIFIER</key>
-				<string>org.cocoapods.${PRODUCT_NAME:rfc1034identifier}</string>
-				<key>PRODUCT_NAME</key>
-				<string>Pods_JLTransitioning_Example</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>D1B5F5D2E3AA7E57280C09B6BC90D49D</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D2750D342E2F91E54AAB49E383D8D646</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>JLFlipTransitioning.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D41D8CD98F00B204E9800998ECF8427E</key>
-		<dict>
-			<key>attributes</key>
-			<dict>
-				<key>LastSwiftUpdateCheck</key>
-				<string>0720</string>
-				<key>LastUpgradeCheck</key>
-				<string>0700</string>
-			</dict>
-			<key>buildConfigurationList</key>
-			<string>2D8E8EC45A3A1A1D94AE762CB5028504</string>
-			<key>compatibilityVersion</key>
-			<string>Xcode 3.2</string>
-			<key>developmentRegion</key>
-			<string>English</string>
-			<key>hasScannedForEncodings</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXProject</string>
-			<key>knownRegions</key>
-			<array>
-				<string>en</string>
-			</array>
-			<key>mainGroup</key>
-			<string>7DB346D0F39D3F0E887471402A8071AB</string>
-			<key>productRefGroup</key>
-			<string>E154B6AAD2716FCCD571CD11161BA93E</string>
-			<key>projectDirPath</key>
-			<string></string>
-			<key>projectReferences</key>
-			<array/>
-			<key>projectRoot</key>
-			<string></string>
-			<key>targets</key>
-			<array>
-				<string>FC72A5548A23965AED5BD03819872563</string>
-				<string>C33A2C5DAD52EC5E4687DC0A2FFD88D3</string>
-				<string>9E9FC7D43E956C94A69DDC11EEE15DC3</string>
-			</array>
-		</dict>
-		<key>D5824266046462A2C6EDD5AD4A6BF79B</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D2750D342E2F91E54AAB49E383D8D646</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>D635D41133915B228CE899EF89DD95CE</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>Foundation.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk/System/Library/Frameworks/Foundation.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>DC4AC3E2040EC6A8B11DD21C84DD8ECE</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>Pods-JLTransitioning_Example-umbrella.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E0D64FDD12DCC23E7C1D837E786DF3AC</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>37A9C12F2033A1A77BCCC239ACF6A662</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEBUG_INFORMATION_FORMAT</key>
-				<string>dwarf-with-dsym</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_NO_COMMON_BLOCKS</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/JLTransitioning/JLTransitioning-prefix.pch</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/JLTransitioning/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.0</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/JLTransitioning/JLTransitioning.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>NO</string>
-				<key>PRODUCT_NAME</key>
-				<string>JLTransitioning</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>E154B6AAD2716FCCD571CD11161BA93E</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>C3D56D8FFB99FDD95F755F8A581F08BB</string>
-				<string>6F03C63763C1C3DD9F6D35906269613F</string>
-				<string>E58D712465EB1F6842E2B684100A4BAD</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Products</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E1850823F9E9A80380B16BF9CBF0DAB4</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>JLTransitioning-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E294F3BD993E240DCFCB4DC1329C9F36</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>D635D41133915B228CE899EF89DD95CE</string>
-				<string>AF066F8D85A4D7A3B3A04D25E4D2AC88</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>iOS</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E487D324A05CDDB8F91573E35A8FA24A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>10630636D9C843C32B2DE4AFEB7ADC8A</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>E58D712465EB1F6842E2B684100A4BAD</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.framework</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>Pods_JLTransitioning_Tests.framework</string>
-			<key>path</key>
-			<string>Pods-JLTransitioning_Tests.framework</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>EA04F0308838462EF9CF12AD23A623A0</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>D41D8CD98F00B204E9800998ECF8427E</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>FC72A5548A23965AED5BD03819872563</string>
-			<key>remoteInfo</key>
-			<string>JLTransitioning</string>
-		</dict>
-		<key>ECC03F97A5E849BF79241A1366B93D2D</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>C23093F37EC050EF17586CE9687A233F</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEBUG_INFORMATION_FORMAT</key>
-				<string>dwarf</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_NO_COMMON_BLOCKS</key>
-				<string>YES</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/Pods-JLTransitioning_Tests/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MACH_O_TYPE</key>
-				<string>staticlib</string>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/Pods-JLTransitioning_Tests/Pods-JLTransitioning_Tests.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>YES</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PODS_ROOT</key>
-				<string>$(SRCROOT)</string>
-				<key>PRODUCT_BUNDLE_IDENTIFIER</key>
-				<string>org.cocoapods.${PRODUCT_NAME:rfc1034identifier}</string>
-				<key>PRODUCT_NAME</key>
-				<string>Pods_JLTransitioning_Tests</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>F4432870494B9D28038E76BFA0F8DC69</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F54E9159D85B800CD76A5BD594C6E6A6</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>JLPopTransitioning.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F55443F66A0FD3A7A63A0B80102A05E3</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>Pods-JLTransitioning_Example.modulemap</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>FC72A5548A23965AED5BD03819872563</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>054825842E2A9F3633A81A7D07671A37</string>
-			<key>buildPhases</key>
-			<array>
-				<string>62415991679D4D777A43ED8B834D238D</string>
-				<string>A3CE1D19FE1EC7188D62C0357AC84B70</string>
-				<string>3EB198B4A4813DF31BF757817EEFE432</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>JLTransitioning</string>
-			<key>productName</key>
-			<string>JLTransitioning</string>
-			<key>productReference</key>
-			<string>C3D56D8FFB99FDD95F755F8A581F08BB</string>
-			<key>productType</key>
-			<string>com.apple.product-type.framework</string>
-		</dict>
-		<key>FF57276D86994F84894B62CC947DA131</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>JLTransitioning-prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-	</dict>
-	<key>rootObject</key>
-	<string>D41D8CD98F00B204E9800998ECF8427E</string>
-</dict>
-</plist>
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0977B7D90982449D800F2AD3E82EADF2 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AF066F8D85A4D7A3B3A04D25E4D2AC88 /* UIKit.framework */; };
+		105E401CEE997310D28426F09616D27A /* JLTransitioning.h in Headers */ = {isa = PBXBuildFile; fileRef = 1758680429012A5D94DF6B24FE0BF03F /* JLTransitioning.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		1BE57E16E9C8D9CB69A569E816835716 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D635D41133915B228CE899EF89DD95CE /* Foundation.framework */; };
+		1E7F577D49D4DEE8A82C11CAD784DEB2 /* JLPopTransitioning.m in Sources */ = {isa = PBXBuildFile; fileRef = F54E9159D85B800CD76A5BD594C6E6A6 /* JLPopTransitioning.m */; };
+		25F862FA9D3A8F51DC405E31360AFECA /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D635D41133915B228CE899EF89DD95CE /* Foundation.framework */; };
+		518E9577EC4CC71A3E1617C8E4761F9F /* Pods-JLTransitioning_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0103BCE659F10235BD992131A2146395 /* Pods-JLTransitioning_Example-dummy.m */; };
+		5566BAD430EE4A7EFDB51BFF9B83942C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D635D41133915B228CE899EF89DD95CE /* Foundation.framework */; };
+		656049BF8888E4D29B0617387912297D /* JLTransitioning-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E1850823F9E9A80380B16BF9CBF0DAB4 /* JLTransitioning-dummy.m */; };
+		70C13260F6DDD520AC80D27FF6C2588B /* Pods-JLTransitioning_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = DC4AC3E2040EC6A8B11DD21C84DD8ECE /* Pods-JLTransitioning_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8060A91CAF36105EBFD945180C676E6F /* JLPopTransitioning.h in Headers */ = {isa = PBXBuildFile; fileRef = 359C49DFB6C7483A3A64635C994A81DC /* JLPopTransitioning.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		854A4B51D97F809A4C47957976732117 /* JLTransitioning-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 8AD776D4A3F0C4475476757745EB719E /* JLTransitioning-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9CD8369892079751B8EE109414384369 /* Pods-JLTransitioning_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 5D17A049B1C8B0D78CEB3143AEBEB629 /* Pods-JLTransitioning_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B98BBE571D44892500DC7523 /* JLCircularRevealTranstion.h in Headers */ = {isa = PBXBuildFile; fileRef = B98BBE551D44892500DC7523 /* JLCircularRevealTranstion.h */; };
+		B98BBE581D44892500DC7523 /* JLCircularRevealTranstion.m in Sources */ = {isa = PBXBuildFile; fileRef = B98BBE561D44892500DC7523 /* JLCircularRevealTranstion.m */; };
+		BD62FF8C6CC70C21EEC1F38F5EE7FA45 /* Pods-JLTransitioning_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FC416A4DBE8289C0CD2584675105C47 /* Pods-JLTransitioning_Tests-dummy.m */; };
+		D5824266046462A2C6EDD5AD4A6BF79B /* JLFlipTransitioning.m in Sources */ = {isa = PBXBuildFile; fileRef = D2750D342E2F91E54AAB49E383D8D646 /* JLFlipTransitioning.m */; };
+		E487D324A05CDDB8F91573E35A8FA24A /* JLFlipTransitioning.h in Headers */ = {isa = PBXBuildFile; fileRef = 10630636D9C843C32B2DE4AFEB7ADC8A /* JLFlipTransitioning.h */; settings = {ATTRIBUTES = (Public, ); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		EA04F0308838462EF9CF12AD23A623A0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FC72A5548A23965AED5BD03819872563;
+			remoteInfo = JLTransitioning;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0103BCE659F10235BD992131A2146395 /* Pods-JLTransitioning_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-JLTransitioning_Example-dummy.m"; sourceTree = "<group>"; };
+		10630636D9C843C32B2DE4AFEB7ADC8A /* JLFlipTransitioning.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = JLFlipTransitioning.h; sourceTree = "<group>"; };
+		1758680429012A5D94DF6B24FE0BF03F /* JLTransitioning.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = JLTransitioning.h; sourceTree = "<group>"; };
+		1BA5C7D7C0966E6926401F2EE603AC62 /* Pods-JLTransitioning_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-JLTransitioning_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		1FC416A4DBE8289C0CD2584675105C47 /* Pods-JLTransitioning_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-JLTransitioning_Tests-dummy.m"; sourceTree = "<group>"; };
+		359C49DFB6C7483A3A64635C994A81DC /* JLPopTransitioning.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = JLPopTransitioning.h; sourceTree = "<group>"; };
+		372166E27599B1A1792D9829C56D4AC1 /* Pods-JLTransitioning_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-JLTransitioning_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		37A9C12F2033A1A77BCCC239ACF6A662 /* JLTransitioning.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = JLTransitioning.xcconfig; sourceTree = "<group>"; };
+		3A95E9F98D6F47FB11C3EE1EC7AE5A30 /* Pods-JLTransitioning_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-JLTransitioning_Example-frameworks.sh"; sourceTree = "<group>"; };
+		3D573C70A3485F3AD717D52451E8F56C /* Pods-JLTransitioning_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-JLTransitioning_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		3F8950A638929D566730DA874B0EA446 /* Pods-JLTransitioning_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-JLTransitioning_Tests.modulemap"; sourceTree = "<group>"; };
+		4BDA320A39E638E0C063E3C6E90CBD85 /* Pods-JLTransitioning_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-JLTransitioning_Tests-frameworks.sh"; sourceTree = "<group>"; };
+		4DA6717AA018E6F290856DAF875E757B /* Pods-JLTransitioning_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-JLTransitioning_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		4EE10D883AEF1845AD5F73F45EF8F092 /* JLTransitioning.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = JLTransitioning.modulemap; sourceTree = "<group>"; };
+		5CCC8E137BCF5BA8169996BE21567318 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5D17A049B1C8B0D78CEB3143AEBEB629 /* Pods-JLTransitioning_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-JLTransitioning_Tests-umbrella.h"; sourceTree = "<group>"; };
+		6818A36D57E0237AECA7D783314987A2 /* Pods-JLTransitioning_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-JLTransitioning_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		6F03C63763C1C3DD9F6D35906269613F /* Pods_JLTransitioning_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_JLTransitioning_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		8AD776D4A3F0C4475476757745EB719E /* JLTransitioning-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JLTransitioning-umbrella.h"; sourceTree = "<group>"; };
+		8D279359FEC7C9A748C51C7EB527CC33 /* Pods-JLTransitioning_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-JLTransitioning_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		90F3702328CF9910CDF388E699829C9E /* Pods-JLTransitioning_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-JLTransitioning_Example.release.xcconfig"; sourceTree = "<group>"; };
+		A13957386C240B930ED7C685D56DDA22 /* Pods-JLTransitioning_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-JLTransitioning_Tests-resources.sh"; sourceTree = "<group>"; };
+		A7A384BA966ADC36B617E176EEAFFFBC /* Pods-JLTransitioning_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-JLTransitioning_Example-resources.sh"; sourceTree = "<group>"; };
+		AF066F8D85A4D7A3B3A04D25E4D2AC88 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
+		B98BBE551D44892500DC7523 /* JLCircularRevealTranstion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JLCircularRevealTranstion.h; sourceTree = "<group>"; };
+		B98BBE561D44892500DC7523 /* JLCircularRevealTranstion.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JLCircularRevealTranstion.m; sourceTree = "<group>"; };
+		BA6428E9F66FD5A23C0A2E06ED26CD2F /* Podfile */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		C23093F37EC050EF17586CE9687A233F /* Pods-JLTransitioning_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-JLTransitioning_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		C3D56D8FFB99FDD95F755F8A581F08BB /* JLTransitioning.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JLTransitioning.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D1B5F5D2E3AA7E57280C09B6BC90D49D /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D2750D342E2F91E54AAB49E383D8D646 /* JLFlipTransitioning.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = JLFlipTransitioning.m; sourceTree = "<group>"; };
+		D635D41133915B228CE899EF89DD95CE /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		DC4AC3E2040EC6A8B11DD21C84DD8ECE /* Pods-JLTransitioning_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-JLTransitioning_Example-umbrella.h"; sourceTree = "<group>"; };
+		E1850823F9E9A80380B16BF9CBF0DAB4 /* JLTransitioning-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "JLTransitioning-dummy.m"; sourceTree = "<group>"; };
+		E58D712465EB1F6842E2B684100A4BAD /* Pods_JLTransitioning_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_JLTransitioning_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F4432870494B9D28038E76BFA0F8DC69 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F54E9159D85B800CD76A5BD594C6E6A6 /* JLPopTransitioning.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = JLPopTransitioning.m; sourceTree = "<group>"; };
+		F55443F66A0FD3A7A63A0B80102A05E3 /* Pods-JLTransitioning_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-JLTransitioning_Example.modulemap"; sourceTree = "<group>"; };
+		FF57276D86994F84894B62CC947DA131 /* JLTransitioning-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JLTransitioning-prefix.pch"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		0AC12E557612559A81C2029A58D6B19F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5566BAD430EE4A7EFDB51BFF9B83942C /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		85FACEFDCE6046FAC0BC7CD3F7DA0E35 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				25F862FA9D3A8F51DC405E31360AFECA /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A3CE1D19FE1EC7188D62C0357AC84B70 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1BE57E16E9C8D9CB69A569E816835716 /* Foundation.framework in Frameworks */,
+				0977B7D90982449D800F2AD3E82EADF2 /* UIKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0A62C8FACB0CD5620812F8D5D296BEA0 /* Pods-JLTransitioning_Tests */ = {
+			isa = PBXGroup;
+			children = (
+				5CCC8E137BCF5BA8169996BE21567318 /* Info.plist */,
+				3F8950A638929D566730DA874B0EA446 /* Pods-JLTransitioning_Tests.modulemap */,
+				3D573C70A3485F3AD717D52451E8F56C /* Pods-JLTransitioning_Tests-acknowledgements.markdown */,
+				6818A36D57E0237AECA7D783314987A2 /* Pods-JLTransitioning_Tests-acknowledgements.plist */,
+				1FC416A4DBE8289C0CD2584675105C47 /* Pods-JLTransitioning_Tests-dummy.m */,
+				4BDA320A39E638E0C063E3C6E90CBD85 /* Pods-JLTransitioning_Tests-frameworks.sh */,
+				A13957386C240B930ED7C685D56DDA22 /* Pods-JLTransitioning_Tests-resources.sh */,
+				5D17A049B1C8B0D78CEB3143AEBEB629 /* Pods-JLTransitioning_Tests-umbrella.h */,
+				C23093F37EC050EF17586CE9687A233F /* Pods-JLTransitioning_Tests.debug.xcconfig */,
+				4DA6717AA018E6F290856DAF875E757B /* Pods-JLTransitioning_Tests.release.xcconfig */,
+			);
+			name = "Pods-JLTransitioning_Tests";
+			path = "Target Support Files/Pods-JLTransitioning_Tests";
+			sourceTree = "<group>";
+		};
+		0E8D78EFBDCF69387ACBC476AE6B9AC9 /* JLTransitioning */ = {
+			isa = PBXGroup;
+			children = (
+				1D877DC3D01E2DEBACBC806241480317 /* JLTransitioning */,
+				8B7CD2BF1E13B26816A392B1277FBDDE /* Support Files */,
+			);
+			name = JLTransitioning;
+			path = ../..;
+			sourceTree = "<group>";
+		};
+		0FABAD41D8E51E5ED4163FA8F0F64B0E /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				0E8D78EFBDCF69387ACBC476AE6B9AC9 /* JLTransitioning */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		1D877DC3D01E2DEBACBC806241480317 /* JLTransitioning */ = {
+			isa = PBXGroup;
+			children = (
+				1DFB98F93DF6D2592A508CDCF9AC958A /* Classes */,
+			);
+			path = JLTransitioning;
+			sourceTree = "<group>";
+		};
+		1DFB98F93DF6D2592A508CDCF9AC958A /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				10630636D9C843C32B2DE4AFEB7ADC8A /* JLFlipTransitioning.h */,
+				D2750D342E2F91E54AAB49E383D8D646 /* JLFlipTransitioning.m */,
+				359C49DFB6C7483A3A64635C994A81DC /* JLPopTransitioning.h */,
+				F54E9159D85B800CD76A5BD594C6E6A6 /* JLPopTransitioning.m */,
+				1758680429012A5D94DF6B24FE0BF03F /* JLTransitioning.h */,
+				B98BBE551D44892500DC7523 /* JLCircularRevealTranstion.h */,
+				B98BBE561D44892500DC7523 /* JLCircularRevealTranstion.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		433CD3331B6C3787F473C941B61FC68F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				E294F3BD993E240DCFCB4DC1329C9F36 /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		7DB346D0F39D3F0E887471402A8071AB = {
+			isa = PBXGroup;
+			children = (
+				BA6428E9F66FD5A23C0A2E06ED26CD2F /* Podfile */,
+				0FABAD41D8E51E5ED4163FA8F0F64B0E /* Development Pods */,
+				433CD3331B6C3787F473C941B61FC68F /* Frameworks */,
+				E154B6AAD2716FCCD571CD11161BA93E /* Products */,
+				BB122D92C564507AAFF076D08AA74FBB /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		8B7CD2BF1E13B26816A392B1277FBDDE /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				F4432870494B9D28038E76BFA0F8DC69 /* Info.plist */,
+				4EE10D883AEF1845AD5F73F45EF8F092 /* JLTransitioning.modulemap */,
+				37A9C12F2033A1A77BCCC239ACF6A662 /* JLTransitioning.xcconfig */,
+				E1850823F9E9A80380B16BF9CBF0DAB4 /* JLTransitioning-dummy.m */,
+				FF57276D86994F84894B62CC947DA131 /* JLTransitioning-prefix.pch */,
+				8AD776D4A3F0C4475476757745EB719E /* JLTransitioning-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/JLTransitioning";
+			sourceTree = "<group>";
+		};
+		95DD354645FEFD9B44C8B43C51D079F7 /* Pods-JLTransitioning_Example */ = {
+			isa = PBXGroup;
+			children = (
+				D1B5F5D2E3AA7E57280C09B6BC90D49D /* Info.plist */,
+				F55443F66A0FD3A7A63A0B80102A05E3 /* Pods-JLTransitioning_Example.modulemap */,
+				8D279359FEC7C9A748C51C7EB527CC33 /* Pods-JLTransitioning_Example-acknowledgements.markdown */,
+				1BA5C7D7C0966E6926401F2EE603AC62 /* Pods-JLTransitioning_Example-acknowledgements.plist */,
+				0103BCE659F10235BD992131A2146395 /* Pods-JLTransitioning_Example-dummy.m */,
+				3A95E9F98D6F47FB11C3EE1EC7AE5A30 /* Pods-JLTransitioning_Example-frameworks.sh */,
+				A7A384BA966ADC36B617E176EEAFFFBC /* Pods-JLTransitioning_Example-resources.sh */,
+				DC4AC3E2040EC6A8B11DD21C84DD8ECE /* Pods-JLTransitioning_Example-umbrella.h */,
+				372166E27599B1A1792D9829C56D4AC1 /* Pods-JLTransitioning_Example.debug.xcconfig */,
+				90F3702328CF9910CDF388E699829C9E /* Pods-JLTransitioning_Example.release.xcconfig */,
+			);
+			name = "Pods-JLTransitioning_Example";
+			path = "Target Support Files/Pods-JLTransitioning_Example";
+			sourceTree = "<group>";
+		};
+		BB122D92C564507AAFF076D08AA74FBB /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				95DD354645FEFD9B44C8B43C51D079F7 /* Pods-JLTransitioning_Example */,
+				0A62C8FACB0CD5620812F8D5D296BEA0 /* Pods-JLTransitioning_Tests */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		E154B6AAD2716FCCD571CD11161BA93E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C3D56D8FFB99FDD95F755F8A581F08BB /* JLTransitioning.framework */,
+				6F03C63763C1C3DD9F6D35906269613F /* Pods_JLTransitioning_Example.framework */,
+				E58D712465EB1F6842E2B684100A4BAD /* Pods_JLTransitioning_Tests.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		E294F3BD993E240DCFCB4DC1329C9F36 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				D635D41133915B228CE899EF89DD95CE /* Foundation.framework */,
+				AF066F8D85A4D7A3B3A04D25E4D2AC88 /* UIKit.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		2ADB9462E9BD3B69DAEDC8CE97CF3ADF /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9CD8369892079751B8EE109414384369 /* Pods-JLTransitioning_Tests-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		399A9425CA2DCAD7A4B4A7CF8CE1EE99 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				70C13260F6DDD520AC80D27FF6C2588B /* Pods-JLTransitioning_Example-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3EB198B4A4813DF31BF757817EEFE432 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E487D324A05CDDB8F91573E35A8FA24A /* JLFlipTransitioning.h in Headers */,
+				8060A91CAF36105EBFD945180C676E6F /* JLPopTransitioning.h in Headers */,
+				B98BBE571D44892500DC7523 /* JLCircularRevealTranstion.h in Headers */,
+				854A4B51D97F809A4C47957976732117 /* JLTransitioning-umbrella.h in Headers */,
+				105E401CEE997310D28426F09616D27A /* JLTransitioning.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		9E9FC7D43E956C94A69DDC11EEE15DC3 /* Pods-JLTransitioning_Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4E2D4A25A718AEB2EF6557B1871AC0CA /* Build configuration list for PBXNativeTarget "Pods-JLTransitioning_Tests" */;
+			buildPhases = (
+				5929A2F6AF1254AA1874A429B167C2D7 /* Sources */,
+				0AC12E557612559A81C2029A58D6B19F /* Frameworks */,
+				2ADB9462E9BD3B69DAEDC8CE97CF3ADF /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pods-JLTransitioning_Tests";
+			productName = "Pods-JLTransitioning_Tests";
+			productReference = E58D712465EB1F6842E2B684100A4BAD /* Pods_JLTransitioning_Tests.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		C33A2C5DAD52EC5E4687DC0A2FFD88D3 /* Pods-JLTransitioning_Example */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AE41F511F53BD94A53EB2FE9CA5C937C /* Build configuration list for PBXNativeTarget "Pods-JLTransitioning_Example" */;
+			buildPhases = (
+				0F5B4B12178B8F8FF45C46462F552AA2 /* Sources */,
+				85FACEFDCE6046FAC0BC7CD3F7DA0E35 /* Frameworks */,
+				399A9425CA2DCAD7A4B4A7CF8CE1EE99 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A164379A29C53DB00274B2919C5D3C8E /* PBXTargetDependency */,
+			);
+			name = "Pods-JLTransitioning_Example";
+			productName = "Pods-JLTransitioning_Example";
+			productReference = 6F03C63763C1C3DD9F6D35906269613F /* Pods_JLTransitioning_Example.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		FC72A5548A23965AED5BD03819872563 /* JLTransitioning */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 054825842E2A9F3633A81A7D07671A37 /* Build configuration list for PBXNativeTarget "JLTransitioning" */;
+			buildPhases = (
+				62415991679D4D777A43ED8B834D238D /* Sources */,
+				A3CE1D19FE1EC7188D62C0357AC84B70 /* Frameworks */,
+				3EB198B4A4813DF31BF757817EEFE432 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = JLTransitioning;
+			productName = JLTransitioning;
+			productReference = C3D56D8FFB99FDD95F755F8A581F08BB /* JLTransitioning.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D41D8CD98F00B204E9800998ECF8427E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0720;
+				LastUpgradeCheck = 0700;
+			};
+			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
+			productRefGroup = E154B6AAD2716FCCD571CD11161BA93E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FC72A5548A23965AED5BD03819872563 /* JLTransitioning */,
+				C33A2C5DAD52EC5E4687DC0A2FFD88D3 /* Pods-JLTransitioning_Example */,
+				9E9FC7D43E956C94A69DDC11EEE15DC3 /* Pods-JLTransitioning_Tests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0F5B4B12178B8F8FF45C46462F552AA2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				518E9577EC4CC71A3E1617C8E4761F9F /* Pods-JLTransitioning_Example-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5929A2F6AF1254AA1874A429B167C2D7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BD62FF8C6CC70C21EEC1F38F5EE7FA45 /* Pods-JLTransitioning_Tests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		62415991679D4D777A43ED8B834D238D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D5824266046462A2C6EDD5AD4A6BF79B /* JLFlipTransitioning.m in Sources */,
+				1E7F577D49D4DEE8A82C11CAD784DEB2 /* JLPopTransitioning.m in Sources */,
+				B98BBE581D44892500DC7523 /* JLCircularRevealTranstion.m in Sources */,
+				656049BF8888E4D29B0617387912297D /* JLTransitioning-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		A164379A29C53DB00274B2919C5D3C8E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = JLTransitioning;
+			target = FC72A5548A23965AED5BD03819872563 /* JLTransitioning */;
+			targetProxy = EA04F0308838462EF9CF12AD23A623A0 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		2FADCDBF72DA7D014ED8ECD227F0CAF1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4DA6717AA018E6F290856DAF875E757B /* Pods-JLTransitioning_Tests.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-JLTransitioning_Tests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-JLTransitioning_Tests/Pods-JLTransitioning_Tests.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_JLTransitioning_Tests;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		372FF5048FF42C3A7A18B70A30D785C1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		6FA18091A327A2CF460E49DFF4BE80E0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 90F3702328CF9910CDF388E699829C9E /* Pods-JLTransitioning_Example.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-JLTransitioning_Example/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-JLTransitioning_Example/Pods-JLTransitioning_Example.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_JLTransitioning_Example;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		70F0378D63DE3D2DCC739550669BD46A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				ONLY_ACTIVE_ARCH = YES;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		86EE7CC51DC16114732033AE90D21139 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 37A9C12F2033A1A77BCCC239ACF6A662 /* JLTransitioning.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/JLTransitioning/JLTransitioning-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/JLTransitioning/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/JLTransitioning/JLTransitioning.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = JLTransitioning;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		CA77FB466A5C764FCE5A5E21B9ADC90C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 372166E27599B1A1792D9829C56D4AC1 /* Pods-JLTransitioning_Example.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-JLTransitioning_Example/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-JLTransitioning_Example/Pods-JLTransitioning_Example.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_JLTransitioning_Example;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		E0D64FDD12DCC23E7C1D837E786DF3AC /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 37A9C12F2033A1A77BCCC239ACF6A662 /* JLTransitioning.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/JLTransitioning/JLTransitioning-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/JLTransitioning/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/JLTransitioning/JLTransitioning.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = JLTransitioning;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		ECC03F97A5E849BF79241A1366B93D2D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C23093F37EC050EF17586CE9687A233F /* Pods-JLTransitioning_Tests.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-JLTransitioning_Tests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-JLTransitioning_Tests/Pods-JLTransitioning_Tests.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_JLTransitioning_Tests;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		054825842E2A9F3633A81A7D07671A37 /* Build configuration list for PBXNativeTarget "JLTransitioning" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				86EE7CC51DC16114732033AE90D21139 /* Debug */,
+				E0D64FDD12DCC23E7C1D837E786DF3AC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				70F0378D63DE3D2DCC739550669BD46A /* Debug */,
+				372FF5048FF42C3A7A18B70A30D785C1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4E2D4A25A718AEB2EF6557B1871AC0CA /* Build configuration list for PBXNativeTarget "Pods-JLTransitioning_Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				ECC03F97A5E849BF79241A1366B93D2D /* Debug */,
+				2FADCDBF72DA7D014ED8ECD227F0CAF1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AE41F511F53BD94A53EB2FE9CA5C937C /* Build configuration list for PBXNativeTarget "Pods-JLTransitioning_Example" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CA77FB466A5C764FCE5A5E21B9ADC90C /* Debug */,
+				6FA18091A327A2CF460E49DFF4BE80E0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+}

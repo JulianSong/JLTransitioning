@@ -6,13 +6,19 @@
 		<key>Name</key>
 		<string>JLPopTransitioning</string>
 		<key>Description</key>
-		<string>Popovrer Transitioning</string>
+		<string>Popovrer transitioning</string>
 	</dict>
 	<dict>
 		<key>Name</key>
 		<string>JLFlipTransitioning</string>
 		<key>Description</key>
-		<string>Flip Transitioning</string>
+		<string>Flip transitioning</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>JLCircularRevealTranstion</string>
+		<key>Description</key>
+		<string>Circular teveal transtion</string>
 	</dict>
 </array>
 </plist>
