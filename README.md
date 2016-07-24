@@ -8,11 +8,11 @@
 ## Screen Shots
 
 #### Pop
-![image](https://github.com/JulianSong/JLTransitioning/blob/master/Example/screenshots/screenshot1.gif =375x667)
+<img src="https://github.com/JulianSong/JLTransitioning/blob/master/Example/screenshots/screenshot1.gif" width="375" height="667" />
 #### Flip
-![image](https://github.com/JulianSong/JLTransitioning/blob/master/Example/screenshots/screenshot2.gif =375x667)
+<img src="https://github.com/JulianSong/JLTransitioning/blob/master/Example/screenshots/screenshot2.gif" width="375" height="667" />
 #### Circular reveal
-![image](https://github.com/JulianSong/JLTransitioning/blob/master/Example/screenshots/screenshot3.gif =375x667)
+<img src="https://github.com/JulianSong/JLTransitioning/blob/master/Example/screenshots/screenshot3.gif" width="375" height="667" />
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
