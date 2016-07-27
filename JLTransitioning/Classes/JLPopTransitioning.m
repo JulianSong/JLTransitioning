@@ -87,7 +87,7 @@
         }
         width = self.containerView.frame.size.width - 50;
     }else{
-        _maxHeight - 650;
+        _maxHeight = 650;
         if (height == 0 ) {
             height = self.defaultHeight;
         }
