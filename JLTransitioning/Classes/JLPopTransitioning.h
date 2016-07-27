@@ -13,6 +13,8 @@
 @property(nonatomic,strong)UIButton *backButton;
 @property(nonatomic,weak)UIViewController *presentedController;
 @property(nonatomic,weak)UIView *containerView;
+@property(nonatomic,assign)CGFloat defaultHeight;
+@property(nonatomic,assign,readonly)CGFloat maxHeight;
 @property(nonatomic,assign)CGRect popFrame;
 @property(nonatomic,assign)CGPoint popCenter;
 @end

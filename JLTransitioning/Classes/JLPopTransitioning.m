@@ -17,6 +17,7 @@
         _backButton = [[UIButton alloc] init];
         _backButton.alpha = 0;
         _backButton.backgroundColor = [UIColor colorWithWhite:0 alpha:0.3];
+        _defaultHeight = UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPhone ? 400: 500;
         [_backButton addTarget:self action:@selector(dismissPresentedController) forControlEvents:UIControlEventTouchUpInside];
         
         [[NSNotificationCenter defaultCenter] addObserver:self
@@ -68,25 +69,35 @@
     [self.containerView addSubview:self.presentedController.view];
     id view = self.presentedController.view;
     
-    CGFloat height;
+    CGFloat height = self.defaultHeight;
     if ([view isKindOfClass:[UIScrollView class]]) {
         height = [view contentSize].height;
     }else{
         height = [view frame].size.height;
     }
 
+    CGFloat width;
     if (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPhone) {
-        if (height == 0 || height > 400) {
-            height = 400;
+        _maxHeight = self.containerView.frame.size.height - 50;
+        if (height == 0 ) {
+            height = self.defaultHeight;
         }
-        self.presentedController.view.frame = CGRectMake(0,0,self.containerView.frame.size.width - 50,height);
+        if (height > _maxHeight){
+            height = _maxHeight;
+        }
+        width = self.containerView.frame.size.width - 50;
     }else{
-        if (height == 0 || height > 500) {
-            height = 500;
+        _maxHeight - 650;
+        if (height == 0 ) {
+            height = self.defaultHeight;
         }
-        self.presentedController.view.frame = CGRectMake(0,0,500,height);
+        if (height > _maxHeight){
+            height = _maxHeight;
+        }
+        width = 500;
     }
     
+    self.presentedController.view.frame = CGRectMake(0,0,width,height);
     self.presentedController.view.alpha = fromAlpha;
     self.presentedController.view.transform = fromTransform;
     self.presentedController.view.center = center;
