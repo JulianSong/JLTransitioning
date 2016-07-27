@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'JLTransitioning'
-  s.version          = '0.1.2'
+  s.version          = '0.1.3'
   s.summary          = 'IOS 7 Transitioning.'
   s.description      = <<-DESC
 IOS 7 Transitioning include pop flip ..
