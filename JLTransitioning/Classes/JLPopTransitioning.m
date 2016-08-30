@@ -111,12 +111,13 @@
         self.presentedController.view.alpha = toAlpha;
         self.presentedController.view.transform = toTransform;
     } completion:^(BOOL finished) {
-        [transitionContext completeTransition:YES];
+        
         if (!self.reverse) {
             [self.containerView addObserver:self forKeyPath:@"frame" options:NSKeyValueObservingOptionNew context:nil];
         }else{
             [self.containerView removeObserver:self forKeyPath:@"frame"];
         }
+        [transitionContext completeTransition:YES];
     }];
 }
 

@@ -48,12 +48,12 @@
         self.presentedController.view.frame = toFrame;
         self.backButton.alpha = toAlpha;
     } completion:^(BOOL finished) {
-        [transitionContext completeTransition:YES];
         if (!self.reverse) {
             [self.containerView addObserver:self forKeyPath:@"frame" options:NSKeyValueObservingOptionNew context:nil];
         }else{
             [self.containerView removeObserver:self forKeyPath:@"frame"];
         }
+        [transitionContext completeTransition:YES];
     }];
 }
 - (void)animationDidStop:(CAAnimation *)anim finished:(BOOL)flag
