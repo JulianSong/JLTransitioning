@@ -30,17 +30,7 @@
     
     NSTimeInterval duration = [self transitionDuration:transitionContext];
     
-    CGRect toFrame;
-    if(!self.isReverse){
-        self.presentedController = [transitionContext viewControllerForKey:UITransitionContextToViewControllerKey];
-        self.presentedController.view.frame = CGRectMake(- 280,0,280,self.containerView.bounds.size.height);
-        toFrame = CGRectMake(0,0,280,self.containerView.bounds.size.height);
-        [self.containerView addSubview:self.presentedController.view];
-    }else{
-        self.presentedController = [transitionContext viewControllerForKey:UITransitionContextFromViewControllerKey];
-        toFrame = CGRectMake(-280,0,280,self.containerView.bounds.size.height);
-        [self.containerView addSubview:self.presentedController.view];
-    }
+    CGRect toFrame = [self setupToFrameWithTransitionContext:transitionContext];
     
     CGFloat toAlpha = self.isReverse ? 0 :1 ;
     
@@ -56,6 +46,59 @@
         [transitionContext completeTransition:YES];
     }];
 }
+
+- (CGRect )setupToFrameWithTransitionContext:(id<UIViewControllerContextTransitioning>)transitionContext
+{
+    CGRect toFrame;
+    switch (self.direction) {
+        case JLFlipTransitioningDirectionLeft:
+        {
+            if(!self.isReverse){
+                self.presentedController = [transitionContext viewControllerForKey:UITransitionContextToViewControllerKey];
+                self.presentedController.view.frame = CGRectMake(- 280,0,280,self.containerView.bounds.size.height);
+                toFrame = CGRectMake(0,0,280,self.containerView.bounds.size.height);
+                [self.containerView addSubview:self.presentedController.view];
+            }else{
+                self.presentedController = [transitionContext viewControllerForKey:UITransitionContextFromViewControllerKey];
+                toFrame = CGRectMake(-280,0,280,self.containerView.bounds.size.height);
+                [self.containerView addSubview:self.presentedController.view];
+            }
+        }
+            break;
+        case JLFlipTransitioningDirectionRight:
+        {
+            if(!self.isReverse){
+                self.presentedController = [transitionContext viewControllerForKey:UITransitionContextToViewControllerKey];
+                self.presentedController.view.frame = CGRectMake(CGRectGetWidth(self.containerView.bounds) + 280,0,280,self.containerView.bounds.size.height);
+                toFrame = CGRectMake(CGRectGetWidth(self.containerView.bounds)- 280,0,280,self.containerView.bounds.size.height);
+                [self.containerView addSubview:self.presentedController.view];
+            }else{
+                self.presentedController = [transitionContext viewControllerForKey:UITransitionContextFromViewControllerKey];
+                toFrame = CGRectMake(CGRectGetWidth(self.containerView.bounds) + 280,0,280,self.containerView.bounds.size.height);
+                [self.containerView addSubview:self.presentedController.view];
+            }
+        }
+            break;
+        case JLFlipTransitioningDirectionBottom:
+        {
+            if(!self.isReverse){
+                self.presentedController = [transitionContext viewControllerForKey:UITransitionContextToViewControllerKey];
+                self.presentedController.view.frame = CGRectMake(0,CGRectGetHeight(self.containerView.bounds)+self.presentSize.height,self.presentSize.width,self.presentSize.height);
+                toFrame = CGRectMake(0,CGRectGetHeight(self.containerView.bounds)-self.presentSize.height,self.presentSize.width,self.presentSize.height);
+                [self.containerView addSubview:self.presentedController.view];
+            }else{
+                self.presentedController = [transitionContext viewControllerForKey:UITransitionContextFromViewControllerKey];
+                toFrame = CGRectMake(0,CGRectGetHeight(self.containerView.bounds)+self.presentSize.height,self.presentSize.width,self.presentSize.height);
+                [self.containerView addSubview:self.presentedController.view];
+            }
+        }
+        default:
+            break;
+    }
+
+    return  toFrame;
+}
+
 - (void)animationDidStop:(CAAnimation *)anim finished:(BOOL)flag
 {
     if (flag) {
