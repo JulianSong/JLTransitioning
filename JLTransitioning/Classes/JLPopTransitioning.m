@@ -16,7 +16,7 @@
     if (self) {
         _backButton = [[UIButton alloc] init];
         _backButton.alpha = 0;
-        _backButton.backgroundColor = [UIColor colorWithWhite:0 alpha:0.3];
+        _backButton.backgroundColor = [UIColor colorWithWhite:0 alpha:0.6];
         _defaultHeight = UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPhone ? 400: 500;
         [_backButton addTarget:self action:@selector(dismissPresentedController) forControlEvents:UIControlEventTouchUpInside];
         
@@ -85,7 +85,12 @@
         if (height > _maxHeight){
             height = _maxHeight;
         }
-        width = self.containerView.frame.size.width - 50;
+        if (self.presentedController.view.frame.size.width == 0) {
+            width = self.containerView.frame.size.width - 50;
+        }else{
+            width = self.presentedController.view.frame.size.width;
+        }
+        
     }else{
         _maxHeight = 650;
         if (height == 0 ) {
