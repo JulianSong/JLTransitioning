@@ -9,7 +9,7 @@
 #import "JLCircularRevealTranstion.h"
 
 #import <QuartzCore/QuartzCore.h>
-@interface JLCircularRevealTranstion()
+@interface JLCircularRevealTranstion()<CAAnimationDelegate>
 @end
 
 @implementation JLCircularRevealTranstion
